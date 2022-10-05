@@ -1,0 +1,74 @@
+{
+    "title": {
+        "media": {
+          "url": "https://as2.ftcdn.net/v2/jpg/03/09/91/13/1000_F_309911343_IggW8l4tRFNoG6dMrL1wTxVDWRjCust2.jpg",
+          "caption": "Seasons"
+        },
+        "text": {
+          "headline": "The Four Seasons",
+          "text": "<p>These are the four seasons</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://cdn.mos.cms.futurecdn.net/8Zw7hWD5ZaquyftsRbEmof-1920-80.jpg.webp",
+          "caption": "Winter"
+        },
+        "start_date": {
+          "month": "12",
+          "day": "21",
+          "year": "2022"
+        },
+        "text": {
+          "headline": "First day of winter",
+          "text": "<p>This is the first day of winter in 2022.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.farmersalmanac.com/wp-content/uploads/2022/02/Hello-Spring-945x630.png",
+          "caption": "Spring"
+        },
+        "start_date": {
+            "month": "3",
+            "day": "20",
+            "year": "2023"
+          },
+        "text": {
+          "headline": "First day of spring",
+          "text": "This is the first day of spring"
+        }
+      },
+      {
+        "media": {
+          "url": "https://ih1.redbubble.net/image.1228742799.5779/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
+          "caption": "Summer"
+        },
+        "start_date": {
+            "month": "6",
+            "day": "21",
+            "year": "2023"
+          },
+        "text": {
+          "headline": "Summer",
+          "text": "This is the first day of summer"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.weatherstationadvisor.com/wp-content/uploads/2021/07/autumn-trees-370x230.jpg",
+          "caption": "Fall"
+        },
+        "start_date": {
+            "month": "9",
+            "day": "23",
+            "year": "2023"
+          },
+        "text": {
+          "headline": "Fall",
+          "text": "This is the first day of fall"
+        }
+      }
+    ]
+}
